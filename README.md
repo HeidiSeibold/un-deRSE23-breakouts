@@ -10,9 +10,9 @@ Please post ideas for sessions as [issues](). You need to have a GitHub account 
 - :bulb: Open a new issue for a new idea.
 - :cherries: Comment on existing issues if you have any thoughts or questions about it. You can also mention how you could contribute or anything else relevant to the workshop idea.
 
-:information_desk_person_tone2: 
+:information_desk_person:
 *Please make sure that your workshop ideas are understandable to everyone. We come from different fields. Use as little jargon as possible.* 
-:information_desk_person_tone2:
+:information_desk_person:
 
 We will decide on the final program **on a date TBD**.
 
