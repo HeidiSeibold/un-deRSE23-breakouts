@@ -1,5 +1,8 @@
 # deRSE23 unconference break-outs 
 
+<img src="https://user-images.githubusercontent.com/14146757/215468887-ab657376-1b38-47d0-8e11-a7bf36b5730f.jpeg" width="100">
+
+
 Welcome to the repository for the deRSE Unconference 2023 break-out sessions. 
 
 *(For short talks please see https://un-derse23.sciencesconf.org)*
@@ -19,4 +22,5 @@ Please post ideas for sessions as [issues](). You need to have a GitHub account 
 We will decide on the final program **on a date TBD**.
 
 If you run into any problems with this process, please contact the program chairs [Heidi Seibold](mailto:heidi@seibold.co) and/or [Robert Speck](mailto:r.speck@fz-juelich.de).
+
 
